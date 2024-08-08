@@ -1,8 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Cleano**
-
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Nest JS**
 
 - 💬 Ask me about **React, Javascript**
 
